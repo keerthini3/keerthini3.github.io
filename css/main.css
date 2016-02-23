@@ -2226,6 +2226,7 @@ fieldset[disabled] a.btn {
     border-color: #5bc0de; }
 
 .btn-success {
+  width: 300px; /*added*/
   color: #fff;
   background-color: #5cb85c;
   border-color: #5cb85c; }

@@ -87,3 +87,10 @@
 	opacity: 0.2;
 	border: solid 1px #979797;
 }*/
+.textbox {
+	width: 80px;
+	height: 30px;
+	border-radius: 1px;
+	background-color: #ffffff;
+	border: solid 1px #dedede;
+}
