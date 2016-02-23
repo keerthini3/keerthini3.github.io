@@ -1,0 +1,129 @@
+@import url("main.css");
+.container{
+	width: 1201px;
+	height: 998px;
+
+}
+.rectangle-out{
+	
+	width: 1201px;
+	height: 998px;
+	background-color: #675541;
+}
+.rectangle-i {
+	width: 928px;
+	height: 787px;
+	margin: 105px 136px 106px 137px;
+	
+	border-top: 105px;
+	border-radius: 5px ;
+	background-color: #ffffff;
+	box-shadow: 0 1px 11px 1px rgba(39, 39, 39, 0.5);
+	border: solid 1px #3a3e54;
+}
+/*.rectangle-1 {
+	width: 928px;
+	height: 787px;
+	border-radius: 5px;
+	background-color: #ffffff;
+	margin: 105px 136px 106px 137px;
+	border: solid 1px #3a3e54;
+}*/
+.rectangle-in {
+	width: 928px;
+	height: 787px;
+	border-radius: 5px;
+	margin: 105px 136px 106px 137px;
+	background-color: #ffffff;
+	box-shadow: 0 1px 11px 1px rgba(39, 39, 39, 0.5);
+	border: solid 1px #3a3e54;
+}
+.customer_who_bought {
+	padding-left: 30px;
+	padding-top: 1px;
+	width: 425px;
+	height: 28px;
+	font-size: 18px;
+	font-face: Helvetica;
+	line-height: 27.3px;
+	color: #0e0e0e;
+}
+.bitmap2{
+	width: 18px;
+	height: 10px;
+	padding: 12px 9px 0px 9px;
+}
+.bitmap1{
+	width: 18px;
+	height: 10px;
+	
+}
+.mask {
+	width: 178px;
+	height: 160px;
+	border-radius: 16px;
+	background-color: #ffffff;
+	border: solid 1px #979797;
+}
+
+.padding-left{
+
+	padding-left: 123px;
+}
+.padding-right{
+
+	padding-right: 120px;
+}
+
+.sparx {
+	padding-top: 29px;
+	padding-right: 631px;
+	padding-left: 163px;
+	width: 134px;
+	height: 58px;
+	font-size: 48px;
+	font-face: Helvetica-Bold ;
+	line-height: 24px;
+	color: #3c3c3c;
+}
+.mens-canvas-sneaker {
+	
+	padding-left: 103px;
+	width: 259px;
+	height: 29px;
+	font-size: 24px;
+	
+	line-height: 24px;
+	color: #3c3c3c;
+}
+
+.20 {
+	
+	width: 41px;
+	height: 29px;
+	
+}
+
+.comfortable-and-dur {
+	width: 499px;
+	height: 198px;
+	font-size: 13px;
+	font-face: Helvetica-Light;
+	line-height: 24px;
+	color: #0e0e0e;
+}
+.select {
+
+	padding-left: 123px;
+	
+}
+.add-to-kart{
+	padding-left: 123px;	
+}
+.shoe{
+	padding-left: 66px;
+}
+
+
+
+
