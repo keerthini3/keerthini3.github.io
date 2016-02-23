@@ -34,13 +34,7 @@
 						<li style="list-style-type:circle">Style that rises to make every eye fail</li>
 						<li style="list-style-type:circle">Adventures that makes you live life on edge</li>	
 					</ul>
-						<!-- <p class=" padding-left " > Size: 
-        					<select name="size"  >
-        					<option value="1">select</option>
-         					<option value="2">six</option>
-         					<option value="3">seven</option>
-        					</select>
-    				     </p> -->
+					
     				     <div class="form-group select">
   							
 							 Size:<select name="size">
