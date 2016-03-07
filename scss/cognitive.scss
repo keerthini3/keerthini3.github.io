@@ -9,9 +9,9 @@ $border-width: 2px !default;
 	max-width:1280px;
 }
 .hero-sec {
-	height: 703px;
+	
 	background-color: #ffcf27;
-	padding-top: 15px;
+	padding: 15px 0 168px 0px;
 	.navbar-brand {
 		margin-left: 50px;
 	    padding-left: 60px;
@@ -62,9 +62,9 @@ $border-width: 2px !default;
 
 
 .about {
-	height: 503px;
+	
 	background-color: #9855d4;
-	padding: 116px 70px;
+	    padding: 116px 105px 116px 70px;
 }
 .btn {
 	font-size: 14px;
@@ -334,6 +334,7 @@ input::-webkit-input-placeholder {
 	}
 
 }
+
 .footer_sec{
 	height: 104px;
 	background-color: #eeeeee;
